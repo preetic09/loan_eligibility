@@ -1,0 +1,14 @@
+((*- extends 'style_python' -*))
+
+((* block author *))
+\author{Preeti Choubey}
+((* endblock author *))
+
+((* block title *))
+\title{Predicting Loan Eligibility}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{plainnat}
+\bibliography{citations}
+((* endblock bibliography *))
