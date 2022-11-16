@@ -1,0 +1,1 @@
+The goal of this analysis is to develop machine learning models that can predict the loan eligibility of a customer based on customer details including gender, marital status, education, number of dependents, income, loan amount, credit history, and others. 
